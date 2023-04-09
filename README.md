@@ -1,7 +1,5 @@
 # QuoteRating
  Technical task for Kameleoon
-
- App's address - **`31.184.254.8`**
  
 ### Quotes
 
